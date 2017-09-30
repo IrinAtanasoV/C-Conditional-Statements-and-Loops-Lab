@@ -1,0 +1,6 @@
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\bin\Debug\Passed.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\bin\Debug\Passed.exe
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\bin\Debug\Passed.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\obj\Debug\Passed.exe
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Passed\obj\Debug\Passed.pdb
