@@ -3,3 +3,4 @@ C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-C
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Back in  30 Minutes\bin\Debug\Back in  30 Minutes.pdb
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Back in  30 Minutes\obj\Debug\Back in  30 Minutes.exe
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Back in  30 Minutes\obj\Debug\Back in  30 Minutes.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Back in  30 Minutes\obj\Debug\Back in  30 Minutes.csprojResolveAssemblyReference.cache
