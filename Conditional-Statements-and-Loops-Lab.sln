@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Month Printer", "Month Prin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreign Languages", "Foreign Languages\Foreign Languages.csproj", "{7D641B33-6BF0-4080-AF53-EB40D50E20D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre Promotions", "Theatre Promotions\Theatre Promotions.csproj", "{3A03A362-339E-4F5B-8DCF-72B8E2D6F64F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7D641B33-6BF0-4080-AF53-EB40D50E20D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D641B33-6BF0-4080-AF53-EB40D50E20D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D641B33-6BF0-4080-AF53-EB40D50E20D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A03A362-339E-4F5B-8DCF-72B8E2D6F64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A03A362-339E-4F5B-8DCF-72B8E2D6F64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A03A362-339E-4F5B-8DCF-72B8E2D6F64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A03A362-339E-4F5B-8DCF-72B8E2D6F64F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
