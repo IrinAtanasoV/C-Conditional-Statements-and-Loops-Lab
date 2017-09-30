@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table 2.0", "Multiplication Table 2.0\Multiplication Table 2.0.csproj", "{92C5C465-1EE1-457B-AAE5-3693867F8759}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Number", "Odd Number\Odd Number.csproj", "{6D7C6812-8503-42B9-81D6-4E7A566FD088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number checker", "Number checker\Number checker.csproj", "{33FE21A5-E453-4BD0-8947-C7423DE4A60A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{92C5C465-1EE1-457B-AAE5-3693867F8759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92C5C465-1EE1-457B-AAE5-3693867F8759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92C5C465-1EE1-457B-AAE5-3693867F8759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7C6812-8503-42B9-81D6-4E7A566FD088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7C6812-8503-42B9-81D6-4E7A566FD088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7C6812-8503-42B9-81D6-4E7A566FD088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7C6812-8503-42B9-81D6-4E7A566FD088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FE21A5-E453-4BD0-8947-C7423DE4A60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FE21A5-E453-4BD0-8947-C7423DE4A60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FE21A5-E453-4BD0-8947-C7423DE4A60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FE21A5-E453-4BD0-8947-C7423DE4A60A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

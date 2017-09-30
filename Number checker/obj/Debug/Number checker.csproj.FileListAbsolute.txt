@@ -1,0 +1,5 @@
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Number checker\bin\Debug\Number checker.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Number checker\bin\Debug\Number checker.exe
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Number checker\bin\Debug\Number checker.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Number checker\obj\Debug\Number checker.exe
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Number checker\obj\Debug\Number checker.pdb
