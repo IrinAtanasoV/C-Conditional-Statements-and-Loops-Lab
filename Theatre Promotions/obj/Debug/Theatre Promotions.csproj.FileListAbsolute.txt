@@ -3,3 +3,4 @@ C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-C
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Theatre Promotions\bin\Debug\Theatre Promotions.pdb
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Theatre Promotions\obj\Debug\Theatre Promotions.exe
 C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Theatre Promotions\obj\Debug\Theatre Promotions.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\Conditional-Statements-and-Loops-Lab\C-Conditional-Statements-and-Loops-Lab\Theatre Promotions\obj\Debug\Theatre Promotions.csprojResolveAssemblyReference.cache
