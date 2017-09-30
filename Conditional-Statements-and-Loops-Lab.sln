@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passed", "Passed\Passed.csproj", "{C5620254-51C7-45FE-B00D-8DB4E809EC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passed or Failed", "Passed or Failed\Passed or Failed.csproj", "{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Back in  30 Minutes", "Back in  30 Minutes\Back in  30 Minutes.csproj", "{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5620254-51C7-45FE-B00D-8DB4E809EC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5620254-51C7-45FE-B00D-8DB4E809EC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5620254-51C7-45FE-B00D-8DB4E809EC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5620254-51C7-45FE-B00D-8DB4E809EC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

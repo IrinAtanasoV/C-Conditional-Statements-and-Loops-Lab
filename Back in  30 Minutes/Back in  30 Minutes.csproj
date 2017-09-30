@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}</ProjectGuid>
+    <ProjectGuid>{30BB3AF8-1182-4112-AE4B-CD2DB25F5384}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Passed_or_Failed</RootNamespace>
-    <AssemblyName>Passed or Failed</AssemblyName>
+    <RootNamespace>Back_in__30_Minutes</RootNamespace>
+    <AssemblyName>Back in  30 Minutes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

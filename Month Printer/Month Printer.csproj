@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{552B62D1-A6A4-4FBC-BBD1-3A31B4B14A5F}</ProjectGuid>
+    <ProjectGuid>{E4C00271-5F5E-4D7B-88A6-26BE0AC49660}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Passed_or_Failed</RootNamespace>
-    <AssemblyName>Passed or Failed</AssemblyName>
+    <RootNamespace>Month_Printer</RootNamespace>
+    <AssemblyName>Month_Printer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
